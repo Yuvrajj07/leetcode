@@ -4,7 +4,7 @@ public:
         int n=v.size();
         int s=0;
         int e=n-1;
-        int ans=v.size();        
+        int ans=n;        
 
         while(s<=e){
             int mid=s+(e-s)/2;
