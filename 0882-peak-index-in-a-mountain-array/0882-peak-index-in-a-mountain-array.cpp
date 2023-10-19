@@ -1,14 +1,8 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& s) {
-        int z=0;
-        int max =0;
-    for (int i=0;i<s.size();i++){
-        if (s[i]>max){
-            max=s[i];
-             z=i;
-        }
-    }  
+     int z= max_element(s.begin(),s.end())-s.begin();
     return z;
     }
+
 };
