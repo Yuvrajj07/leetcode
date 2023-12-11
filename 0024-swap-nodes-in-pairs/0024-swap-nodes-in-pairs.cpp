@@ -41,12 +41,12 @@ public:
             current->next = second;
             current->next->next = first;
             
-            // Move current two steps forward
+          
             current = current->next->next;
         }
 
         head = dummy->next;
-        delete dummy; // Free the dummy node
+        // delete dummy; // Free the dummy node
         return head;
     }
 };
