@@ -10,9 +10,7 @@ public:
         int s=0,ans=1;
         for (auto it:m){
             s+=it.second;
-            if (s>1){
                ans=max(s,ans);
-            }
         }
         return ans;
         
