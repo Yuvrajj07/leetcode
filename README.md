@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yuvrajj07/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 # Sorting
 |  |
 | ------- |
@@ -22,3 +23,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
