@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/Yuvrajj07/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
+| [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yuvrajj07/leetcode/tree/master/0056-merge-intervals) |
+| [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
 # Tree
 |  |
 | ------- |
@@ -31,3 +33,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
+# Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
