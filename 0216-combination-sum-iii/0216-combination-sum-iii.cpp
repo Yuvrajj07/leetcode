@@ -6,9 +6,7 @@ public:
             ans.push_back(output);
             return ;
         }
-        else if (output.size()==k && sum>n) return ;
         for (int i =index;i<=9;i++){
-            //  
         output.push_back(i);
             sum+=i;
             solve(ans,output,k,n,i+1);
