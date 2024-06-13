@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0216-combination-sum-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yuvrajj07/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Yuvrajj07/leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yuvrajj07/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Yuvrajj07/leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Counting Sort
 |  |
 | ------- |
