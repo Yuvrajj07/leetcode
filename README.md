@@ -60,10 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0633-sum-of-square-numbers) |
 # Math
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yuvrajj07/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0633-sum-of-square-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0633-sum-of-square-numbers) |
 # Design
 |  |
 | ------- |
@@ -72,3 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yuvrajj07/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0633-sum-of-square-numbers) |
