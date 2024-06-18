@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0216-combination-sum-iii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yuvrajj07/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/Yuvrajj07/leetcode/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Yuvrajj07/leetcode/tree/master/1319-unique-number-of-occurrences) |
 # Sorting
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Yuvrajj07/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/Yuvrajj07/leetcode/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Yuvrajj07/leetcode/tree/master/1217-relative-sort-array) |
 # Tree
 |  |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 # Math
 |  |
 | ------- |
@@ -78,3 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
+# Greedy
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
