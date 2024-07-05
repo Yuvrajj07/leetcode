@@ -2,9 +2,7 @@ class SeatManager {
 private:
     int last;
    multiset<int> M;
-
 public:
-    // SeatManager(int n) : last(0) {}
         SeatManager(int n){
                 last=0;
 
