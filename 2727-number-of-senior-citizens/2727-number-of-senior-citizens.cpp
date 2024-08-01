@@ -4,8 +4,8 @@ public:
         int ans = 0;
         for (int i = 0; i < details.size(); i++) {
             string s = details[i];
-            string f = s.substr(11, 2); // Get the substring from position 11 with length 2
-            int z = stoi(f); // Convert the substring to an integer
+            string f = s.substr(11, 2); 
+            int z = stoi(f);
             if (z > 60) ans++;
         }
         return ans;
