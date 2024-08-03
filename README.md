@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Yuvrajj07/leetcode/tree/master/1511-count-number-of-teams) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Yuvrajj07/leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
