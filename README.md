@@ -235,8 +235,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0263-ugly-number](https://github.com/Yuvrajj07/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
