@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,14 +141,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/Yuvrajj07/leetcode/tree/master/1955-seat-reservation-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [1955-seat-reservation-manager](https://github.com/Yuvrajj07/leetcode/tree/master/1955-seat-reservation-manager) |
 ## Simulation
@@ -266,4 +270,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
