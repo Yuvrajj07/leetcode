@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Yuvrajj07/leetcode/tree/master/1720-crawler-log-folder) |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Monotonic Stack
 |  |
