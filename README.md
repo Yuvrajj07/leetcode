@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
+| [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yuvrajj07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Yuvrajj07/leetcode/tree/master/1511-count-number-of-teams) |
 ## Graph
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,4 +294,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
