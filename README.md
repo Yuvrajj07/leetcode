@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 ## Monotonic Stack
@@ -332,4 +333,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Yuvrajj07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
