@@ -1,52 +1,57 @@
-// /**
-//  * Definition for singly-linked list.
-//  * struct ListNode {
-//  *     int val;
-//  *     ListNode *next;
-//  *     ListNode() : val(0), next(nullptr) {}
-//  *     ListNode(int x) : val(x), next(nullptr) {}
-//  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
-//  * };
-//  */
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 // class Solution {
 // public:
 //     ListNode* swapPairs(ListNode* head) {
-    
-//         struct ListNode *p=head;
-//         while(p!=NULL){
-//             if (p->next==NULL) break;
-//             int data1=p->val;
-//             int data2=p->next->val;
-//             p->val=data2;
-//             p->next->val=data1;
+//         ListNode *p=head;
+//         while (p!=NULL){
+//             if (p==NULL || p->next==NULL){
+//                 return head;
+//             }
+//             ListNode *curr=p;
+//             ListNode *next1=p->next;
+//             p=next1;
+//             p->next=curr;
+//             curr->next=next1->next;
 //             p=p->next;
 //             p=p->next;
 //         }
 //         return head;
 //     }
 // };
+
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        ListNode* dummy = new ListNode(0); // Create a dummy node
-        dummy->next = head;
-        ListNode* current = dummy;
+        if (!head || !head->next) {
+            return head;
+        }
+        ListNode* newHead = head->next; 
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
 
-        while (current->next != nullptr && current->next->next != nullptr) {
-            ListNode* first = current->next;
-            ListNode* second = current->next->next;
+        while (curr && curr->next) {
+            ListNode* nextPair = curr->next->next;
+            ListNode* second = curr->next;
+            second->next = curr;
+            curr->next = nextPair;
 
-            // Swapping
-            first->next = second->next;
-            current->next = second;
-            current->next->next = first;
-            
-          
-            current = current->next->next;
+            if (prev) {
+                prev->next = second;
+            }
+
+            prev = curr;
+            curr = nextPair;
         }
 
-        head = dummy->next;
-        // delete dummy; // Free the dummy node
-        return head;
+        return newHead;
     }
 };
