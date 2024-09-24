@@ -9,25 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// class Solution {
-// public:
-//     TreeNode* pruneTree(TreeNode* root) {
-//         if (root==NULL) {
-//             return NULL;
-//         }
-//         root->left = pruneTree(root->left);
-        
-//         if (root->val==1) {
-//             root->left=NULL;
-//             root->right=NULL;
-//         }
-//         root->right = pruneTree(root->right);
-        
-//         // if (root->val==1) root->next =NULL;
-//         return root;
-//     }
-// };
-
 class Solution {
 public:
     TreeNode* pruneTree(TreeNode* root) {
