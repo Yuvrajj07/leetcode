@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvrajj07/leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Yuvrajj07/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvrajj07/leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Yuvrajj07/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -213,12 +215,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yuvrajj07/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Yuvrajj07/leetcode/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvrajj07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
