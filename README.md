@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Hash Table
 |  |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
@@ -369,4 +373,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
