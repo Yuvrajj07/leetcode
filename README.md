@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Yuvrajj07/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -381,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Yuvrajj07/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
