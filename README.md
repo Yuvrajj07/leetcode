@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [1955-seat-reservation-manager](https://github.com/Yuvrajj07/leetcode/tree/master/1955-seat-reservation-manager) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Yuvrajj07/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Yuvrajj07/leetcode/tree/master/0670-maximum-swap) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -262,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -300,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yuvrajj07/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
