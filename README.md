@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Yuvrajj07/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Yuvrajj07/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yuvrajj07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Yuvrajj07/leetcode/tree/master/1511-count-number-of-teams) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
