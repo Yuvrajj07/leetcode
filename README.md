@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yuvrajj07/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Yuvrajj07/leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yuvrajj07/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/Yuvrajj07/leetcode/tree/master/0985-bag-of-tokens) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Yuvrajj07/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Yuvrajj07/leetcode/tree/master/0985-bag-of-tokens) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yuvrajj07/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Yuvrajj07/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -324,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Yuvrajj07/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
