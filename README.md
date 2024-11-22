@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvrajj07/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Yuvrajj07/leetcode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvrajj07/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Yuvrajj07/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Yuvrajj07/leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
