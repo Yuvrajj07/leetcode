@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuvrajj07/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Yuvrajj07/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Yuvrajj07/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3055-maximum-odd-binary-number](https://github.com/Yuvrajj07/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvrajj07/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
@@ -450,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Yuvrajj07/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvrajj07/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
