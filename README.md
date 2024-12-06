@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Yuvrajj07/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2673-maximize-win-from-two-segments](https://github.com/Yuvrajj07/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Yuvrajj07/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Yuvrajj07/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2673-maximize-win-from-two-segments](https://github.com/Yuvrajj07/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuvrajj07/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvrajj07/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2673-maximize-win-from-two-segments](https://github.com/Yuvrajj07/leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Yuvrajj07/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
