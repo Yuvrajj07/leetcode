@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/Yuvrajj07/leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Yuvrajj07/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Yuvrajj07/leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Yuvrajj07/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [1955-seat-reservation-manager](https://github.com/Yuvrajj07/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yuvrajj07/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/Yuvrajj07/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1803-average-waiting-time](https://github.com/Yuvrajj07/leetcode/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvrajj07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
@@ -369,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Yuvrajj07/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
