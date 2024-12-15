@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Yuvrajj07/leetcode/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Yuvrajj07/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvrajj07/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Yuvrajj07/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Yuvrajj07/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Yuvrajj07/leetcode/tree/master/1972-rotating-the-box) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvrajj07/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/Yuvrajj07/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yuvrajj07/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Yuvrajj07/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1917-maximum-average-pass-ratio](https://github.com/Yuvrajj07/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Yuvrajj07/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Yuvrajj07/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
