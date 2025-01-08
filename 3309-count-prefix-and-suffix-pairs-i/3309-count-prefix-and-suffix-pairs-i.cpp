@@ -11,7 +11,7 @@ public:
                         string st=s2.substr(0,s1.length());
                         string en=s2.substr(s2.length()-s1.length(),s1.length());
                         if (st==en && st==s1) ans++;
-
+                        //sharma bhatija hai mera 
                     }
             }
                 
