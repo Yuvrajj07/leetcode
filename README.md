@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Yuvrajj07/leetcode/tree/master/0189-rotate-array) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yuvrajj07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yuvrajj07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Trie
 |  |
