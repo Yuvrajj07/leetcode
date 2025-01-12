@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvrajj07/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Yuvrajj07/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvrajj07/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Yuvrajj07/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Yuvrajj07/leetcode/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvrajj07/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvrajj07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Yuvrajj07/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Yuvrajj07/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Yuvrajj07/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvrajj07/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
