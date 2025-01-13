@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yuvrajj07/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Yuvrajj07/leetcode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Yuvrajj07/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Yuvrajj07/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Database
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Yuvrajj07/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvrajj07/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Yuvrajj07/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
