@@ -1,3 +1,12 @@
+/*  approach:-
+    * create two empty vectors
+    * push 0 to first vector.
+    * push 1 to the second vector.
+    * now push the elements in both the vectors according to the xpr values .
+    * at last check weather any of the vector satiesfies the derived vector condition or not.
+    * if the condition is satisfied return true  else return false . 
+*/
+
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>&v) {
