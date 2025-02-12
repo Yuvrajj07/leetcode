@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Yuvrajj07/leetcode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Yuvrajj07/leetcode/tree/master/0985-bag-of-tokens) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1396-count-servers-that-communicate](https://github.com/Yuvrajj07/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Yuvrajj07/leetcode/tree/master/0985-bag-of-tokens) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Yuvrajj07/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -547,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Yuvrajj07/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Yuvrajj07/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
