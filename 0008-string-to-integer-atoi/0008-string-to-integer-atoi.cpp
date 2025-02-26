@@ -16,11 +16,9 @@ public:
 
         while (i < s.length() && isdigit(s[i])) {
             int digit = s[i] - '0';
-
             if (result > (INT_MAX - digit) / 10) {
                 return (sign == 1) ? INT_MAX : INT_MIN;
             }
-
             result = result * 10 + digit;
             i++;
         }
