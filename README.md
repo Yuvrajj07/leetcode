@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yuvrajj07/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Yuvrajj07/leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yuvrajj07/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yuvrajj07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Trie
 |  |
 | ------- |
