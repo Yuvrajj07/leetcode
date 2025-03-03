@@ -1,23 +1,21 @@
 class Solution {
 public:
-    std::vector<std::vector<int>> subsets(std::vector<int>& nums) {
-        vector<int>output;
+    vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
-        int index=0;
-        solve(nums,output,ans,index);
+        int size=pow(2,nums.size());
+        for (int i =0;i<size;i++){
+            vector<int>push;
+            int x=0,j=i;
+
+            while (j>0){
+                if (j&1==1){
+                    push.push_back(nums[x]);
+                }
+                j=j>>1;
+                x++;
+            }
+            ans.push_back(push);
+        }
         return ans;
     }
-   void  solve(vector<int>nums,vector<int>output,vector<vector<int>>&ans,int index){
-        if (index>=nums.size()){
-            ans.push_back(output);
-            return ;
-        }
-        // exculde the element
-        solve(nums,output,ans,index+1);
-        
-        //include the element 
-        output.push_back(nums[index]);
-        solve(nums,output,ans,index+1);
-    }
-    
 };
