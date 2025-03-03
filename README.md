@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
 | [2107-find-unique-binary-string](https://github.com/Yuvrajj07/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Number Theory
