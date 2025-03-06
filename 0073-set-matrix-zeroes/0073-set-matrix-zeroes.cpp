@@ -12,8 +12,12 @@ public:
             }
         }
         for (int i=0;i<matrix.size();i++){
+            bool row=false;
+            if(r.find(i)!=r.end()){
+                row=true;
+            }
             for (int j=0;j<matrix[0].size();j++){
-             if(r.find(i)!=r.end()  ||  c.find(j)!=c.end()){
+             if(c.find(j)!=c.end() || row){
                 matrix[i][j]=0;
             }
             }
