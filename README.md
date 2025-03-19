@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvrajj07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Yuvrajj07/leetcode/tree/master/0198-house-robber) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Yuvrajj07/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
