@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yuvrajj07/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yuvrajj07/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Yuvrajj07/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Yuvrajj07/leetcode/tree/master/0455-assign-cookies) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Yuvrajj07/leetcode/tree/master/0242-valid-anagram) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/Yuvrajj07/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvrajj07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Yuvrajj07/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yuvrajj07/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
