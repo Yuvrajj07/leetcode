@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Yuvrajj07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Yuvrajj07/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Yuvrajj07/leetcode/tree/master/0792-binary-search) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Yuvrajj07/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/Yuvrajj07/leetcode/tree/master/0917-boats-to-save-people) |
