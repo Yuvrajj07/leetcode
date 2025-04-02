@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Yuvrajj07/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvrajj07/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Yuvrajj07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
