@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Yuvrajj07/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yuvrajj07/leetcode/tree/master/0200-number-of-islands) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
