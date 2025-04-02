@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool solve(int i ,int n,vector<int>&v,vector<int>&dp){
-        if (i==n-1) return true;
+        if (i>=n-1) return true;
         if (dp[i]!=-1) return dp[i];
         for (int jump=1;jump<=v[i];jump++){
             if (i+jump<n &&  solve(i+jump,n,v,dp)){
