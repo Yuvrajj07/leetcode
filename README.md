@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Yuvrajj07/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
