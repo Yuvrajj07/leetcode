@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Yuvrajj07/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Yuvrajj07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
