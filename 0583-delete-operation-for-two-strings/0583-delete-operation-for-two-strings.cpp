@@ -1,3 +1,4 @@
+// logic : used least common subsequence 
 class Solution {
 public:
     int solve(string s1,string s2,int n1,int n2,vector<vector<int>>&dp){
