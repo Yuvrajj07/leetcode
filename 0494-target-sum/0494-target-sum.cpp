@@ -1,26 +1,3 @@
-// class Solution {
-// public:
-//     int  ans=0;
-//     int findTargetSumWays(vector<int>& nums, int target) {
-//         calc(nums,0,0,target);
-//         return ans;
-//     }
-//     private:
-//     void calc(vector<int>v,int sum ,int idx,int target){
-//         vector<int>dp(v.size()+1,-1);
-//         if (dp[idx]!=-1) return dp[idx];
-//         if (idx==v.size()){
-//             if (target==sum ) ans++;
-//         }
-//         else {
-//             calc(v,sum+v[idx],idx+1,target);
-//             calc(v,sum-v[idx],idx+1,target);
-//             dp[idx]=sum;
-//         }
-//     }
-// };
-
-
 class Solution {
 public:
     
