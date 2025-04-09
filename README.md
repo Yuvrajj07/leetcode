@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Yuvrajj07/leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Yuvrajj07/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Yuvrajj07/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yuvrajj07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Yuvrajj07/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1916-find-center-of-star-graph](https://github.com/Yuvrajj07/leetcode/tree/master/1916-find-center-of-star-graph) |
@@ -815,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Yuvrajj07/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -907,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvrajj07/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Yuvrajj07/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Number Theory
