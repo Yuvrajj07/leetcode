@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Yuvrajj07/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Yuvrajj07/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/0125-valid-palindrome) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yuvrajj07/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
