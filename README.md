@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Yuvrajj07/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Yuvrajj07/leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Yuvrajj07/leetcode/tree/master/0890-lemonade-change) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Yuvrajj07/leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Yuvrajj07/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/Yuvrajj07/leetcode/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Yuvrajj07/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Yuvrajj07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Yuvrajj07/leetcode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -744,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Yuvrajj07/leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
