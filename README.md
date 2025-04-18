@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Yuvrajj07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Yuvrajj07/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Yuvrajj07/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
