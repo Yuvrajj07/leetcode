@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Yuvrajj07/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Yuvrajj07/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Yuvrajj07/leetcode/tree/master/0115-distinct-subsequences) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvrajj07/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Yuvrajj07/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvrajj07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Yuvrajj07/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
@@ -857,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yuvrajj07/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Yuvrajj07/leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0234-palindrome-linked-list) |
