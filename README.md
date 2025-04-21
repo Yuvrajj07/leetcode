@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yuvrajj07/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Yuvrajj07/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Yuvrajj07/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvrajj07/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Yuvrajj07/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Yuvrajj07/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Graph
 |  |
 | ------- |
