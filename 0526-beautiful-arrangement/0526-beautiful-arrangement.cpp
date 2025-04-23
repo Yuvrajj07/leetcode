@@ -1,45 +1,21 @@
-// class Solution {
-// public:
-//     int solve (int i ,int n , int mask,vector<vector<int>>&dp){
-//         if (i>=n) return 1;
-//         if (dp[i][mask]!=-1) return dp[i][mask];
-//         int ans=0;
-//          for (int num=1;num<=n;num++) {
-//             int bit=1<<(num-1);
-//             if ((mask & bit)==0 && (num%i==0 || i%num==0)){
-//                 ans+=solve(i+1,n,mask | bit,dp);
-//             }
-//         }
-//        return  dp[i][mask]=ans;
-//     }
-//     int countArrangement(int n) {
-//         int max_mask=1<<n;
-//         vector<vector<int>>dp(n+1,(vector<int>(max_mask+1,-1)));
-//         return solve(1,n,0,dp);
-//     }
-// };
 class Solution {
 public:
-    int solve(int pos, int n, int mask, vector<vector<int>>& dp) {
-        if (pos > n) return 1; // all positions filled
-        
-        if (dp[pos][mask] != -1) return dp[pos][mask];
-
-        int count = 0;
-        for (int num = 1; num <= n; num++) {
-            int bit = 1 << (num - 1);
-            if ((mask & bit) == 0 && (num % pos == 0 || pos % num == 0)) {
-                count += solve(pos + 1, n, mask | bit, dp);
+    int solve (int i ,int n , int mask,vector<vector<int>>&dp){
+        if (i>n) return 1;
+        if (dp[i][mask]!=-1) return dp[i][mask];
+        int ans=0;
+         for (int num=1;num<=n;num++) {
+            int bit=1<<(num-1);
+            if ((mask & bit)==0 && (num%i==0 || i%num==0)){
+                ans+=solve(i+1,n,mask | bit,dp);
             }
         }
-
-        return dp[pos][mask] = count;
+       return  dp[i][mask]=ans;
     }
-
     int countArrangement(int n) {
-        int maxMask = 1 << n; // since we have n bits
-        vector<vector<int>> dp(n + 1, vector<int>(maxMask, -1));
-        return solve(1, n, 0, dp);
+        int max_mask=1<<n;
+        vector<vector<int>>dp(n+1,(vector<int>(max_mask,-1)));
+        return solve(1,n,0,dp);
     }
 };
 
