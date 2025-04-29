@@ -732,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -789,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Yuvrajj07/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -840,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Yuvrajj07/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yuvrajj07/leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -961,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Backtracking
 |  |
@@ -1019,5 +1024,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Yuvrajj07/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
