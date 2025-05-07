@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Yuvrajj07/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yuvrajj07/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Yuvrajj07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Yuvrajj07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yuvrajj07/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yuvrajj07/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/Yuvrajj07/leetcode/tree/master/0815-champagne-tower) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajj07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvrajj07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Yuvrajj07/leetcode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/Yuvrajj07/leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -954,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvrajj07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Yuvrajj07/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Yuvrajj07/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yuvrajj07/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1006,10 +1010,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yuvrajj07/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Yuvrajj07/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
