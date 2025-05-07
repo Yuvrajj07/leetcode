@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Yuvrajj07/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yuvrajj07/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvrajj07/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yuvrajj07/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yuvrajj07/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvrajj07/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Yuvrajj07/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvrajj07/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yuvrajj07/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvrajj07/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -784,11 +787,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1916-find-center-of-star-graph](https://github.com/Yuvrajj07/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [3189-find-champion-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yuvrajj07/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvrajj07/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yuvrajj07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Yuvrajj07/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yuvrajj07/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
