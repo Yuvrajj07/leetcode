@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Yuvrajj07/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/Yuvrajj07/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1021,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Yuvrajj07/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
