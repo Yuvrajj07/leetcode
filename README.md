@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Yuvrajj07/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yuvrajj07/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Yuvrajj07/leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Yuvrajj07/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Yuvrajj07/leetcode/tree/master/0097-interleaving-string) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Yuvrajj07/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yuvrajj07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Yuvrajj07/leetcode/tree/master/0225-implement-stack-using-queues) |
