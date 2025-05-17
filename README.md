@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvrajj07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Yuvrajj07/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Yuvrajj07/leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Yuvrajj07/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Yuvrajj07/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
