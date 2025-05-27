@@ -1,11 +1,8 @@
 class Solution {
-public:
+public:        
+    int ans=0;
     int differenceOfSums(int n, int m) {
-        int ans=0;
-        for (int i =1;i<=n;i++){
-            if (i%m!=0) ans+=i;
-            else ans-=i;
-        }
+        for (int i =1;i<=n;i++) (i%m!=0)? ans+=i: ans-=i;
         return ans;
     }
 };
