@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 | [1008-binary-tree-cameras](https://github.com/Yuvrajj07/leetcode/tree/master/1008-binary-tree-cameras) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Yuvrajj07/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Yuvrajj07/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 | [1008-binary-tree-cameras](https://github.com/Yuvrajj07/leetcode/tree/master/1008-binary-tree-cameras) |
@@ -1008,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yuvrajj07/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Yuvrajj07/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 | [1008-binary-tree-cameras](https://github.com/Yuvrajj07/leetcode/tree/master/1008-binary-tree-cameras) |
