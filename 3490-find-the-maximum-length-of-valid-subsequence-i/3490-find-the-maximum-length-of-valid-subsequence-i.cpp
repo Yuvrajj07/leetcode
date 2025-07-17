@@ -28,9 +28,8 @@ public:
             if (num % 2 == 0) even++;
             else odd++;
         }
-
         int sameParity = max(even, odd);
-
+        
         // Case 2: All odd sum -> find max alternating subsequence
         int alt1 = 0, alt2 = 0;
         int parity = -1;
