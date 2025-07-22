@@ -541,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yuvrajj07/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Yuvrajj07/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yuvrajj07/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/Yuvrajj07/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1144,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Yuvrajj07/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yuvrajj07/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvrajj07/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Yuvrajj07/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Number Theory
