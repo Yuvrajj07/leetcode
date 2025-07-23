@@ -925,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Yuvrajj07/leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/Yuvrajj07/leetcode/tree/master/0390-elimination-game) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
@@ -1067,6 +1068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yuvrajj07/leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/Yuvrajj07/leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
