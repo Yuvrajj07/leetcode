@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Yuvrajj07/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
@@ -1150,6 +1151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Yuvrajj07/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yuvrajj07/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
