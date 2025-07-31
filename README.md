@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yuvrajj07/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Yuvrajj07/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Yuvrajj07/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Yuvrajj07/leetcode/tree/master/0179-largest-number) |
+| [0376-wiggle-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Yuvrajj07/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Yuvrajj07/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/Yuvrajj07/leetcode/tree/master/0474-ones-and-zeroes) |
