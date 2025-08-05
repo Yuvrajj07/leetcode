@@ -2,23 +2,17 @@ class Solution {
 public:
 void bfs(int i ,int j,vector<vector<int>>&vis,vector<vector<char>>&c){
             int n= c.size(),m=c[0].size();
+            if (i<0 || i>=n || j>=m || j<0 || c[i][j]!='1' || vis[i][j]==1){
+                return ;
+            }
             vis[i][j]=1;
-            queue<pair<int,int>>q;
-            q.push({i,j});
-            while (!q.empty()){
                 int rows[4]={1,0,0,-1};
                 int cols[4]={0,1,-1,0};
-                pair<int,int>p=q.front();
-                q.pop();
-                for (int i=0;i<4;i++){
-                    int nrow=p.first+rows[i];
-                    int ncol=p.second+cols[i];
-                    if (nrow>=0 && nrow<n && ncol<m && ncol>=0 && c[nrow][ncol]=='1' && vis[nrow][ncol]!=1){
-                        vis[nrow][ncol]=1;
-                        q.push({nrow,ncol});
-                    }
+                for (int k=0;k<4;k++){
+                    int nrow=i+rows[k];
+                    int ncol=j+cols[k];
+                        bfs(nrow,ncol,vis,c);
                 }
-            }
 }
     int numIslands(vector<vector<char>>& grid) {
         int n= grid.size(),m=grid[0].size();
