@@ -1,9 +1,8 @@
 class Solution {
 public:
-    string longestPalindrome(string s) {
+    int sti=0,mxlen=1;
+    void solve(int l ,int r,string s ){
         int n = s.size();
-        int sti=0,mxlen=1;
-        auto eca = [&] (int l ,int r ){
             while (l>=0 && r<n && s[r]==s[l]){
                 if (mxlen<r-l+1){
                     sti=l;
@@ -12,14 +11,15 @@ public:
                 r++;
                 l--;
             }
-            
-        };
+    }
+    string longestPalindrome(string s) {
+        int n = s.size();
         for (int i =0;i<n;i++){
-            eca(i,i);
-            eca(i,i+1);
+            solve(i,i,s);
+            solve(i,i+1,s);
         }
-       return s.substr(sti,mxlen);
-        // return ans;
+        string ans=s.substr(sti,mxlen);
+       return  ans;
 
     }
 };
