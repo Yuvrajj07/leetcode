@@ -1059,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Yuvrajj07/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Yuvrajj07/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/Yuvrajj07/leetcode/tree/master/0832-binary-tree-pruning) |
 | [1008-binary-tree-cameras](https://github.com/Yuvrajj07/leetcode/tree/master/1008-binary-tree-cameras) |
@@ -1115,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvrajj07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Trie
@@ -1241,4 +1243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yuvrajj07/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
