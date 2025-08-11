@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    // creating undiracted graph   
     void graph(TreeNode *root,unordered_map<int,vector<int>>&m){
         if (root==NULL) return ;
         int curr=root->val;
@@ -27,6 +28,8 @@ public:
         graph(root->left,m);
         graph(root->right,m);
     }
+
+    // applying bfs - level order traversal
     int bfs(unordered_map<int,vector<int>>&m,int start){
         queue<int>q;
         unordered_map<int,int>vis;
@@ -52,8 +55,8 @@ public:
     }
     int amountOfTime(TreeNode* root, int start) {
         unordered_map<int,vector<int>>m;
-        graph(root,m);
-        int z=bfs(m,start);
+        graph(root,m); // convert the treee into graph  
+        int z=bfs(m,start); // applying bfs to find the distance or number of levels from the start node .
         return z-1;
     }
 };
