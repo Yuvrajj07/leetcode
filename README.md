@@ -890,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yuvrajj07/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/Yuvrajj07/leetcode/tree/master/0815-champagne-tower) |
+| [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/Yuvrajj07/leetcode/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Yuvrajj07/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -965,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Yuvrajj07/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Yuvrajj07/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Yuvrajj07/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -1257,4 +1259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
