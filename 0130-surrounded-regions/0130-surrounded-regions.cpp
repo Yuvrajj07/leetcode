@@ -1,119 +1,44 @@
-//................................USING BFS........................
 class Solution {
 public:
-    void solve(vector<vector<char>>& board) {
-        int m = board.size(), n = board[0].size();
-        if (m == 0 || n == 0) return;
-
-        queue<pair<int, int>> q;
-
-        // Step 1: Mark boundary 'O's and push them into queue
-        for (int i = 0; i < m; ++i) {
-            if (board[i][0] == 'O') {
-                board[i][0] = '#';
-                q.push({i, 0});
-            }
-            if (board[i][n - 1] == 'O') {
-                board[i][n - 1] = '#';
-                q.push({i, n - 1});
-            }
-        }
-        for (int j = 0; j < n; ++j) {
-            if (board[0][j] == 'O') {
-                board[0][j] = '#';
-                q.push({0, j});
-            }
-            if (board[m - 1][j] == 'O') {
-                board[m - 1][j] = '#';
-                q.push({m - 1, j});
-            }
-        }
-
-        // Step 2: Perform BFS to mark all safe 'O's
-        vector<int> dirX = {1, -1, 0, 0};
-        vector<int> dirY = {0, 0, 1, -1};
-
-        while (!q.empty()) {
-            auto [x, y] = q.front();
+    void dfs(vector<vector<char>>&v,vector<vector<int>>&vis,int i ,int j){
+        queue<pair<int,int>>q;
+        q.push({i,j});
+        vis[i][j]=1;
+        while (!q.empty()){
+            pair<int,int>p=q.front();
             q.pop();
+            int r=p.first,c=p.second;
+            vis[r][c]=1;
+            int nrow[4]={0,1,-1,0};
+            int ncol[4]={-1,0,0,1};
+            for (int i =0;i<4;i++){
+                int neighr=r+nrow[i];
+                int neighc=c+ncol[i];
+                if (neighr>=0 && neighr<v.size()  && neighc>=0 && neighc<v[0].size() && v[neighr][neighc] == 'O' && !vis[neighr][neighc]){
+                    vis[neighr][neighc]=1;
+                    q.push({neighr,neighc});
 
-            for (int d = 0; d < 4; ++d) {
-                int newX = x + dirX[d];
-                int newY = y + dirY[d];
+                }
 
-                if (newX >= 0 && newX < m && newY >= 0 && newY < n && board[newX][newY] == 'O') {
-                    board[newX][newY] = '#';
-                    q.push({newX, newY});
+            }
+        }
+    }    void solve(vector<vector<char>>& v) {
+        int m=v.size(),n=v[0].size();
+        vector<vector<int>>vis(m,vector<int>(n,0));
+        for (int i =0;i<m;i++){
+            if(v[i][0]=='O') dfs(v,vis,i,0);
+            if(v[i][n-1]=='O') dfs(v,vis,i,n-1);
+        }   
+        for (int i =0;i<n;i++){
+            if(v[0][i]=='O') dfs(v,vis,0,i);
+            if(v[m-1][i]=='O') dfs(v,vis,m-1,i);
+        }   
+        for(int i =0;i<m;i++){
+            for (int j=0;j<n;j++){
+                if (vis[i][j]!=1) {
+                    v[i][j]='X';
                 }
             }
-        }
-
-        // Step 3: Modify board
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (board[i][j] == 'O') board[i][j] = 'X';  // Captured region
-                if (board[i][j] == '#') board[i][j] = 'O';  // Restore safe region
-            }
-        }
+        }        
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// //.......................USING DFS........................
-// class Solution {
-// public:
-//     void dfs(vector<vector<char>>& board, int i, int j) {
-//         int m = board.size(), n = board[0].size();
-//         if (i < 0  || j < 0 || i >= m || j >= n || board[i][j] != 'O') return;
-
-//         // Mark as safe
-//         board[i][j] = '#';
-
-//         // Explore all four directions
-//         dfs(board, i + 1, j);
-//         dfs(board, i - 1, j);
-//         dfs(board, i, j + 1);
-//         dfs(board, i, j - 1);
-//     }
-
-//     void solve(vector<vector<char>>& board) {
-//         int m = board.size(), n = board[0].size();
-//         if (m == 0 || n == 0) return;
-
-//         // Mark border-connected 'O's
-//         for (int i = 0; i < m; ++i) {
-//             if (board[i][0] == 'O') dfs(board, i, 0);
-//             if (board[i][n - 1] == 'O') dfs(board, i, n - 1);
-//         }
-//         for (int j = 0; j < n; ++j) {
-//             if (board[0][j] == 'O') dfs(board, 0, j);
-//             if (board[m - 1][j] == 'O') dfs(board, m - 1, j);
-//         }
-
-//         // Update board
-//         for (int i = 0; i < m; ++i) {
-//             for (int j = 0; j < n; ++j) {
-//                 if (board[i][j] == 'O') board[i][j] = 'X';  // Captured region
-//                 if (board[i][j] == '#') board[i][j] = 'O';  // Restore safe region
-//             }
-//         }
-//     }
-// };
