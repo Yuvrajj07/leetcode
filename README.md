@@ -965,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Yuvrajj07/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Yuvrajj07/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Yuvrajj07/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yuvrajj07/leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Yuvrajj07/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -1034,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Yuvrajj07/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Yuvrajj07/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Yuvrajj07/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/Yuvrajj07/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -1118,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Yuvrajj07/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yuvrajj07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Yuvrajj07/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yuvrajj07/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Yuvrajj07/leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
