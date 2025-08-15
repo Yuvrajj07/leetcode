@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Yuvrajj07/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yuvrajj07/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Yuvrajj07/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -866,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Yuvrajj07/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Yuvrajj07/leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Yuvrajj07/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvrajj07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yuvrajj07/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
