@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Yuvrajj07/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Yuvrajj07/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Yuvrajj07/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Yuvrajj07/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yuvrajj07/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Yuvrajj07/leetcode/tree/master/2502-sort-the-people) |
@@ -998,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yuvrajj07/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yuvrajj07/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Yuvrajj07/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Yuvrajj07/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Yuvrajj07/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/Yuvrajj07/leetcode/tree/master/2998-count-symmetric-integers) |
