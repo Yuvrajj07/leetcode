@@ -2,7 +2,6 @@ class Solution {
 public:
     int lcs(string& s1, string& s2, int m, int n) {
         vector<vector<int>> dp(n + 1, vector<int>(n + 1));
-
         for (int i = 0; i <= m; i++) {
             for (int j = 0; j <= n; j++) {
                 if (i == 0 || j == 0) {
@@ -27,6 +26,7 @@ public:
         return n - lcs(s, sReverse, n, n);
     }
 };
+
 //......................MEMOZIATION .........................
 
 // class Solution {
