@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Yuvrajj07/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Yuvrajj07/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Yuvrajj07/leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Yuvrajj07/leetcode/tree/master/0740-delete-and-earn) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Yuvrajj07/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Yuvrajj07/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -761,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Yuvrajj07/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Yuvrajj07/leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0697-degree-of-an-array) |
+| [0740-delete-and-earn](https://github.com/Yuvrajj07/leetcode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/Yuvrajj07/leetcode/tree/master/0807-custom-sort-string) |
 | [0843-binary-trees-with-factors](https://github.com/Yuvrajj07/leetcode/tree/master/0843-binary-trees-with-factors) |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Yuvrajj07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yuvrajj07/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yuvrajj07/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Yuvrajj07/leetcode/tree/master/0740-delete-and-earn) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yuvrajj07/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/Yuvrajj07/leetcode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
