@@ -820,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Yuvrajj07/leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Yuvrajj07/leetcode/tree/master/0177-nth-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Yuvrajj07/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Yuvrajj07/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Yuvrajj07/leetcode/tree/master/0595-big-countries) |
