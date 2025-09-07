@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Yuvrajj07/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
+| [0963-three-equal-parts](https://github.com/Yuvrajj07/leetcode/tree/master/0963-three-equal-parts) |
 | [0967-minimum-falling-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Yuvrajj07/leetcode/tree/master/0983-validate-stack-sequences) |
@@ -1019,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Yuvrajj07/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0963-three-equal-parts](https://github.com/Yuvrajj07/leetcode/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yuvrajj07/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
