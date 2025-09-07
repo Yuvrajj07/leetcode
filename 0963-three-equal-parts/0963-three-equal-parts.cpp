@@ -57,3 +57,14 @@ public:
 
 // 1100000100000010011
 // 10010001001000100100
+
+/*
+APPROACH :
+--> first check if the numbers of 1 is divisible by 3 or not. if not then return {-1,-1};
+--> we have to partition the string into three equal parts . which means that each part will have equal number of 1(ones).
+--> now we will try to find the number which is possible by only required number of 1(ones).
+--> travese from the back include all the numbers in a string till the numbers of ones (1) present in the string reaches the required   number of ones in the string.  
+--> now ignore the leading zeroes because it will not impact on the values of the binary digits.
+--> now traverse from the begining and  include all the charactes of the string till string s1==string s3 or the number of ones limits is reached .
+
+*/
