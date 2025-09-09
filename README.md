@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yuvrajj07/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Yuvrajj07/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Yuvrajj07/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvrajj07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yuvrajj07/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Yuvrajj07/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yuvrajj07/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Yuvrajj07/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Yuvrajj07/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Yuvrajj07/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Yuvrajj07/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1302,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Yuvrajj07/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yuvrajj07/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Yuvrajj07/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Yuvrajj07/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
