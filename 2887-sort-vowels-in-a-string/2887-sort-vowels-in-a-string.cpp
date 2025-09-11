@@ -7,32 +7,17 @@ public:
     string sortVowels(string s) {
         multiset<char>m;
         for (int i=0;i<s.length();i++){
-            if (s[i]=='a' || s[i]=='e' ||s[i]=='i' ||s[i]=='o' ||s[i]=='u' ){
+            if (isVowel(s[i])) {
                 m.insert(s[i]);
             }
-            if (s[i]=='A' || s[i]=='E' ||s[i]=='I' ||s[i]=='O' ||s[i]=='U' ){
-                m.insert(s[i]);
-            }
-
         }
         cout<<m.size()<<endl;
         for (int i =0;i<s.length();i++){
-            if (s[i]=='a' || s[i]=='e' ||s[i]=='i' ||s[i]=='o' ||s[i]=='u' ){
+            if (isVowel(s[i])){
                 char c= *m.begin();
                 s[i]=c;
                 m.erase(m.begin());
             }
-            else  if (s[i]=='A' || s[i]=='E' ||s[i]=='I' ||s[i]=='O' ||s[i]=='U' ){
-                char c= *m.begin();
-                s[i]=c;
-                m.erase(m.begin());
-            }
-            // if (isVowel(s[i])){
-            //     char c= *m.begin();
-            //     s[i]=c;
-            //     m.erase(m.begin());
-            // }
-
         }
         return s;
 
