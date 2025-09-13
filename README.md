@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Yuvrajj07/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Yuvrajj07/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Yuvrajj07/leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Yuvrajj07/leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0948-sort-an-array) |
 | [0963-three-equal-parts](https://github.com/Yuvrajj07/leetcode/tree/master/0963-three-equal-parts) |
@@ -949,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Yuvrajj07/leetcode/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Yuvrajj07/leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Yuvrajj07/leetcode/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1008-binary-tree-cameras](https://github.com/Yuvrajj07/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Yuvrajj07/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Yuvrajj07/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Yuvrajj07/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/Yuvrajj07/leetcode/tree/master/0909-stone-game) |
 | [0963-three-equal-parts](https://github.com/Yuvrajj07/leetcode/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/Yuvrajj07/leetcode/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -1257,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
+| [0909-stone-game](https://github.com/Yuvrajj07/leetcode/tree/master/0909-stone-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Yuvrajj07/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
