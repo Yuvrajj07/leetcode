@@ -9,9 +9,9 @@ public:
         string word;
         stringstream s(t);
         while (s>>word){
-            string d=word;
-            for (int i =0;i<d.length();i++){
-                if (c.find(d[i])!=c.end()){
+            
+            for (int i =0;i<word.length();i++){
+                if (c.find(word[i])!=c.end()){
                     ct++;
                     break;
                 }
