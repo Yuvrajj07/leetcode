@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Yuvrajj07/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Yuvrajj07/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yuvrajj07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yuvrajj07/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -1062,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Yuvrajj07/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yuvrajj07/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Yuvrajj07/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Yuvrajj07/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Yuvrajj07/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
