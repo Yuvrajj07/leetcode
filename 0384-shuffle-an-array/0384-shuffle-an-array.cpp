@@ -18,7 +18,7 @@ public:
     vector<int> shuffle() {
           int n = v.size();
         for (int i = 0; i < n; i++) {
-            int j = rand() % (n - i) + i; // pick random index from [i, n-1]
+            int j = rand() % n  ; // pick random index from [i, n-1]
             swap(v[i], v[j]);
         }
         return v;
