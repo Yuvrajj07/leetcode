@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Yuvrajj07/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0384-shuffle-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Yuvrajj07/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yuvrajj07/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yuvrajj07/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0384-shuffle-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0384-shuffle-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Yuvrajj07/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Yuvrajj07/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1031,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/Yuvrajj07/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Yuvrajj07/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Yuvrajj07/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0384-shuffle-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/Yuvrajj07/leetcode/tree/master/0390-elimination-game) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Yuvrajj07/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0464-can-i-win](https://github.com/Yuvrajj07/leetcode/tree/master/0464-can-i-win) |
@@ -1376,4 +1379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yuvrajj07/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
