@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Yuvrajj07/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuvrajj07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Yuvrajj07/leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Yuvrajj07/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
@@ -1303,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvrajj07/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvrajj07/leetcode/tree/master/0051-n-queens) |
