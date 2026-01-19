@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Yuvrajj07/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Yuvrajj07/leetcode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Yuvrajj07/leetcode/tree/master/0985-bag-of-tokens) |
+| [0997-find-the-town-judge](https://github.com/Yuvrajj07/leetcode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Yuvrajj07/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Yuvrajj07/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yuvrajj07/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -813,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Yuvrajj07/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yuvrajj07/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Yuvrajj07/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0997-find-the-town-judge](https://github.com/Yuvrajj07/leetcode/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Yuvrajj07/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yuvrajj07/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Yuvrajj07/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1410,4 +1412,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Yuvrajj07/leetcode/tree/master/0384-shuffle-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Yuvrajj07/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
