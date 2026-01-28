@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yuvrajj07/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Yuvrajj07/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1436-destination-city](https://github.com/Yuvrajj07/leetcode/tree/master/1436-destination-city) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Yuvrajj07/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yuvrajj07/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Yuvrajj07/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Yuvrajj07/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1436-destination-city](https://github.com/Yuvrajj07/leetcode/tree/master/1436-destination-city) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yuvrajj07/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yuvrajj07/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Yuvrajj07/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yuvrajj07/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Yuvrajj07/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1436-destination-city](https://github.com/Yuvrajj07/leetcode/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yuvrajj07/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yuvrajj07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Yuvrajj07/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
