@@ -1018,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Yuvrajj07/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yuvrajj07/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph
 |  |
 | ------- |
@@ -1106,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/Yuvrajj07/leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Yuvrajj07/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Yuvrajj07/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1400,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yuvrajj07/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Yuvrajj07/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yuvrajj07/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yuvrajj07/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bitmask
 |  |
 | ------- |
